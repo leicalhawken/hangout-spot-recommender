@@ -1,1 +1,0 @@
-web: gunicorn hangout-spot-recommender.wsgi:application --workers 2
